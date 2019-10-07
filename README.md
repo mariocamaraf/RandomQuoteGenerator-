@@ -4,4 +4,4 @@
 
 **Skills Used:** HTML, CSS, JavaScript
 
-Created by Mario Camara
+![](Screenshot.png)
